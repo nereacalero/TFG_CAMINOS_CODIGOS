@@ -1,1 +1,1 @@
-
+Dentro de esta carpeta independiente, se muestran los .gpkg obtenidos mediante QGIS de cada una de las aristas. Estos han sido introducidos dentro del código para poder obtener los parámetros hidráulicos.
