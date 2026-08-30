@@ -1,1 +1,1 @@
-
+Seguidamente, se inicia la dinámica de la red. Inicialmente se muestran los scripts utilizados para la propagación temporal de hidrogramas a través de la red natural. Esta incluye los desplazamientos temporales, las confluencias entre barrancos y la generación de los resultados (incluidos gráficos)
