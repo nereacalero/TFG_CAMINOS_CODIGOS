@@ -11,4 +11,6 @@ Contenido del repositorio:
 - 03_Medida_Centralidad_Intermediación
 - 04_Nodos_Críticos
 - 05_Propagación_red_natural
-- 06_Propagación_red_completa
+- 06_Propagación_Alt_1
+- 07_Propagación_Alt_2
+- 08_Propagación_Alt_3
